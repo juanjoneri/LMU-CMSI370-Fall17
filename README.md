@@ -1,4 +1,4 @@
-# LMU-CMSI371-Fall17
+# LMU-CMSI370-Fall17
 ## Interaction Design
 
 ### Learning Outcomes
